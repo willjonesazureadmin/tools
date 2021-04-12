@@ -1,6 +1,6 @@
 write-host "Secret manager script"
-$projectPath = read-host "Enter a project path or leave blank for current path"
-if($projectPath -eq "") { $projectPath = ".\"}
+$projectPath = $args[0]
+if($projectPath -eq $null) { $projectPath = ".\"}
 
 dotnet user-secrets init -p $projectPath
 write-host "The following secrets have been found"
