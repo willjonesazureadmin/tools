@@ -24,8 +24,8 @@
     .\Swap-AppServiceSlots.ps1 -appServiceName  awa-weu-pmp-be-001 -appServiceResourceGroup lz1-pmp-rg -subscriptionId 95ce893c-179b-44b7-a47a-45645646 -sourceSlot staging -destinationSlot production
 
 .NOTES
-	Version      : 0.0.0.1
-	Last Updated : 2021-05-04
+	Version      : 1.0.0.0
+	Last Updated : 2021-05-11
 	Author       : Will Jones
 	Keywords     : App Service, Slots
 	Open Issues  :
