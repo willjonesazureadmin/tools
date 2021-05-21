@@ -9,6 +9,6 @@
                 "type": "User",
                 "userConsentDescription": "Allow the application to access password manager backend on your behalf.",
                 "userConsentDisplayName": "Access password manager backend",
-                "value": "user_impersonation"
+                "value": "passman.access"
             }
 ]
