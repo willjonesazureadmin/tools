@@ -1,6 +1,4 @@
 [
-    {
-        "oauth2Permissions": [
             {
                 "adminConsentDescription": "Allow the application to access password manager backend on behalf of the signed-in user.",
                 "adminConsentDisplayName": "Access password manager backend",
@@ -13,6 +11,4 @@
                 "userConsentDisplayName": "Access password manager backend",
                 "value": "user_impersonation"
             }
-        ]
-    }
 ]
