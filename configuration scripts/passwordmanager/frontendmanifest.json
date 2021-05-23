@@ -1,15 +1,10 @@
 {
-    "api": {
-        "knownClientApplications": [
-            "95348e89-0600-42bf-8b00-e6caec8f9b04"
-        ]
-    },
     "requiredResourceAccess": [
         {
-            "resourceAppId": "cfa8b339-82a2-471a-a3c9-0fc0be7a4093",
+            "resourceAppId": "00000003-0000-0000-0000-000000000000",
             "resourceAccess": [
                 {
-                    "id": "f53da476-18e3-4152-8e01-aec403e6edc0",
+                    "id": "00000003-0000-0000-0000-000000000000",
                     "type": "Scope"
                 }
             ]
@@ -26,7 +21,7 @@
     ],
     "spa": {
         "redirectUris": [
-            "https://passman.azureadmin.co.uk/authentication/login-callback"
+            "https://placeholder"
         ]
     }
 }
