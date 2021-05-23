@@ -1,4 +1,9 @@
 {
+    "api": {
+        "knownClientApplications": [
+            "95348e89-0600-42bf-8b00-e6caec8f9b04"
+        ]
+    },
     "requiredResourceAccess": [
         {
             "resourceAppId": "cfa8b339-82a2-471a-a3c9-0fc0be7a4093",
@@ -19,10 +24,9 @@
             ]
         }
     ],
-    "replyUrlsWithType":  [
-        {
-            "url":  "https://backendtest.azurewebsites.netapi",
-            "type":  "Spa"
-        }
-    ]
+    "spa": {
+        "redirectUris": [
+            "https://passman.azureadmin.co.uk/authentication/login-callback"
+        ]
+    }
 }
