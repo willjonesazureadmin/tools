@@ -1,7 +1,9 @@
 {
-    "knownClientApplications": [
-        "744df4d5-69a4-412c-9443-0d8059bcef5e"
-    ],
+    "api": {
+        "knownClientApplications": [
+            "95348e89-0600-42bf-8b00-e6caec8f9b04"
+        ]
+    },
     "requiredResourceAccess": [
         {
             "resourceAppId": "cfa8b339-82a2-471a-a3c9-0fc0be7a4093",
@@ -20,12 +22,6 @@
                     "type": "Scope"
                 }
             ]
-        }
-    ],
-    "replyUrlsWithType":  [
-        {
-            "url":  "https://backendtest.azurewebsites.netapi",
-            "type":  "Spa"
         }
     ]
 }
