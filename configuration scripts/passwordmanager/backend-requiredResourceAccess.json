@@ -1,4 +1,5 @@
-[
+{
+	"requiredResourceAccess" : [
 		{
 			"resourceAppId": "cfa8b339-82a2-471a-a3c9-0fc0be7a4093",
 			"resourceAccess": [
@@ -18,3 +19,4 @@
 			]
 		}
 	]
+}
