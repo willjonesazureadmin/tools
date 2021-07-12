@@ -1,0 +1,13 @@
+{
+    "apiVersion": "2018-02-01",
+    "name": "pid-a79fe048-6869-45ac-8683-7fd2446fc73c",
+    "type": "Microsoft.Resources/deployments",
+    "properties": {
+        "mode": "Incremental",
+        "template": {
+            "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentTemplate.json# ",
+            "contentVersion": "1.0.0.0",
+            "resources": []
+        }
+    }
+}
